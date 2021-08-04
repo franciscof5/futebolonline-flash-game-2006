@@ -1,0 +1,6 @@
+{
+"framerate":24,
+"images":["futebolonline-2017-man.png"],
+"frames":[[0, 0, 1024, 512, 0, -8, -13]],
+"animations":{"manage": {"frames": [0], "speed": 1}}
+}
